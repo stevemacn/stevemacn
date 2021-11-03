@@ -2,7 +2,7 @@
 
 I am an CS Professor @ Temple University 
 
-🔧 Our lab is currently developing on tools for novices to perform like experts. 
+Our lab is currently developing on tools for novices to perform like experts. 
 
 
 
