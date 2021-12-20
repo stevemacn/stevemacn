@@ -1,6 +1,9 @@
 ### Hi there, I'm Steve  👋
 
-I am an CS Professor @ Temple University 
+#### I am an CS Professor @ Temple University 
+hci, participatory design, social computing, creativity support, ed tech, and infoviz
+
+---
 
 Our lab is currently developing on tools to help novices do expert-level work. 
 
