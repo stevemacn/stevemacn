@@ -5,9 +5,11 @@ hci, participatory design, social computing, creativity support, ed tech, and in
 
 ---
 
-Our lab is currently developing on tools to help novices do expert-level work. 
+I direct the Temple HCI Lab at Temple. 
 
+At the Temple HCI Lab, we pioneer a community research model where undergraduates tackle real-world, expert-level research challenges. From **human-AI interaction to computing education and assistive technology**, our students gain hands-on experience and have collectively published over 70 papers, continuing our mission to make high-impact research accessible to novices.
 
+If you're interested in getting involved, [reach out!](https://stevemacn.github.io/)
 
 
 <!--
